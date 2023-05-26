@@ -14,5 +14,5 @@ zookeeper:
   enabled: true
 
 control_center:
-  enabled: true
+  enabled: false
   externalAccess: {}
